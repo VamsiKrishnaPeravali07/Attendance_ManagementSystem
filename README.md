@@ -1,7 +1,7 @@
 
-## 📘 Attendance Management System (PHP & MySQL)
+## 📘 Attendance Management System (MySQL)
 
-A lightweight and efficient **Attendance Management System** developed using **PHP** and **MySQL**, designed to manage and track attendance records for students or employees. Ideal for educational institutions and small organizations seeking a digital alternative to manual attendance tracking.
+A lightweight and efficient **Attendance Management System** developed using **MySQL**, designed to manage and track attendance records for students or employees. Ideal for educational institutions and small organizations seeking a digital alternative to manual attendance tracking.
 
 ---
 
